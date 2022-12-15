@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="addition_of_numbers">
+    <title>Addition of numbers</title>
+    <shortdesc>Addition is the process of combining 2 number in math.</shortdesc>
+    <conbody>
+        <p>Addition in math is <b>a process of combining two or more numbers</b>. Addends are the
+            numbers added, and the result or the final answer we get after the process is called the
+            sum.</p>
+    </conbody>
+</concept>

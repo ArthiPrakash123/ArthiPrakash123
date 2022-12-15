@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="multiplication_of_numbers">
+    <title>Multiplication of numbers</title>
+    <shortdesc>Addition is the process of combining 2 number in math.</shortdesc>
+    <conbody>
+        <p>Multiplication in math is <b>a process of multiplying two or more numbers</b>.</p>
+    </conbody>
+</concept>
